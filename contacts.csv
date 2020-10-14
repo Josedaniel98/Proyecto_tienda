@@ -1,0 +1,30 @@
+name,email,phone_staff,phone_business,position,clien_type,company,industry,life_cycles
+Chuck Norris,chuck@correo.com,41589453,41589453,Gerente,Internacional,IKEA,Textil,Estado1
+Juan Perez,juan@correo.com,57720271,,Gerente,Internacional,YAHOO,Aceitera,Estado2
+Pedro Rene,pedro@correo.com,56253346,,Supervisor,Internacional,LEGO,Robotica,Estado3
+Francisco Pop,francisco@correo.com,57789468,,Supervisor,Internacional,GOOGLE,Cementera,Estado2
+Denis Villeda,denis@correo.com,35498674,,Gerente,Local,IKEA,Informatica,Estado3
+Edvin Felipe,edvin@correo.com,21479862,77453218,Gerente,Internacional,GOOGLE,Textil,Estado3
+Enrique Pena,enrique@correo.com,36497521,,Secretario,Local,WD-40,Robotica,Estado2
+Maria De Leon,maria@correo.com,55443322,,Secretario,Local,WD-40,Informatica,Estado1
+Romario Lopez,romario@correo.com,96318741,,Supervisor,Local,GOOGLE,Agricola,Estado3
+Patricia Perez,patricia@correo.com,78456215,,Gerente,Local,IKEA,Aceitera,Estado2
+Fernando Perez,fernando@correo.com,45897612,77968989,Secretario,Local,YAHOO,Agricola,Estado1
+Jhonny Perez,jhonny@correo.com,45887799,56151555,Supervisor,Internacional,YAHOO,Cementera,Estado3
+Dionisio Gutierrez,dionisio@correo.com,65471339,77258946,Supervisor,Internacional,GOOGLE,Robotica,Estado2
+Marco Pappa,marco@correo.com,13497911,65314798,Gerente,Local,GOOGLE,Textil,Estado1
+Carlos Ruiz,carlos@correo.com,31353515,,Secretario,Local,SONY,Textil,Estado3
+Miguel Lopez,miguel@correo.com,25156151,,Gerente,Internacional,SAMSUNG,Mineria,Estado2
+Fabian Ruiz,fabian@correo.com,98451536,,Supervisor,Internacional,SAMSUNG,Azucarera,Estado1
+Keylor Navas,keylor@correo.com,13135135,,Secretario,Internacional,SAMSUNG,Carbonifera,Estado4
+Manuel Obrador,manuel@correo.com,53181530,,Secretario,Local,SONY,Carbonifera,Estado3
+Luis Contreras,contreras@correo.com,57486148,,Supervisor,Internacional,SONY,Azucarera,Estado2
+David Silva,david@correo.com,54135184,,Gerente,Local,SONY,Aceitera,Estado1
+Mario Solano,mario@correo.com,86131385,,Gerente,Internacional,HUAWEI,Azucarera,Estado4
+Pedro Simon,simon@correo.com,51531515,,Gerente,Local,HUAWEI,Robotica,Estado3
+Antonio Conte,antonio@correo.com,51313513,98546237,Supervisor,Internacional,HUAWEI,Textil,Estado2
+Mikel Arteta,mikel@correo.com,36548794,,Secretario,Local,XIAOMI,Aceitera,Estado1
+Rubi Cifuentes,rubi@correo.com,52164897,,Supervisor,Local,XIAOMI,Mineria,Estado4
+Rene Chun,rene@correo.com,41600805,,Gerente,Internacional,XIAOMI,Cementera,Estado3
+Luis Makepeace,luis@correo.com,57464803,,Secretario,Internacional,CRUZ AZUL,Carbonifera,Estado2
+Hugo Boss,hugo@correo.com,98765412,,Supervisor,Local,CRUZ AZUL,Textil,Estado2

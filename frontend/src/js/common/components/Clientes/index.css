@@ -1,0 +1,66 @@
+.pecho {
+    margin: 0px;
+    font-family: sans-serif;
+  }
+  
+.example {
+    border-left: 1px solid #999999;
+    border-bottom: 1px solid #999999;
+    border-right: 1px solid #999999;
+    border-top: 1px solid #999999;
+    border-radius: 10px;
+    margin: 0 auto;
+    padding: 10px;
+    width: 50%;
+  }
+  
+.itemr {
+    font-family: sans-serif;
+    border-top: 1px solid #ffffff;
+    background-color: #eeeeee;
+    border-bottom: 1px solid #999999;
+    border-radius: 6px;
+    margin-bottom: 4px;
+    padding: 10px;
+    padding-left: 8px;
+    opacity: 1;
+    text-transform: uppercase;
+  }
+  
+.itemr .title {
+    font-weight: bold;
+    font-size: 90%;
+    margin: 0;
+    margin-bottom: 0.3rem;
+  }
+  
+.itemr .body {
+    margin: 0;
+    margin-bottom: 0.3rem;
+    font-size: 75%;
+  }
+  
+.itemr .small {
+    text-align: right;
+  }
+  
+.withoutBorder{
+  border: none;
+  color: crimson;
+}
+  
+.dragged .itemr {
+    opacity: 0.25;
+    border-top: 1px solid #999999;
+    border-bottom: 1px solid #ffffff;
+  }
+  
+.floating .itemr {
+    background-color: #ffffff;
+    box-shadow: 0 4px 20px #666666;
+  }
+  
+.dl-itemr.floating {
+    width: 85%;
+  }
+  

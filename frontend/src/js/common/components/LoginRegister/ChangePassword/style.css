@@ -1,0 +1,14 @@
+
+@media(max-width:600px){
+    .btn__container{
+        display: flex;
+        justify-content:space-between;
+    }
+    .uk-margin-left {
+        margin-left: 0px!important;
+    }
+    .btn__container .uk-button{
+        font-size: 0.60rem;
+        line-height: 25px;
+    }
+}
