@@ -18,4 +18,3 @@ class Pedido_detalle(models.Model):
         articulo_id=models.ForeignKey('Articulo',  on_delete=models.CASCADE)
         pedido_id=models.ForeignKey(Pedido,  on_delete=models.CASCADE)
         cantidad = models.IntegerField(default=1)
-        subtotal = models.FloatField()

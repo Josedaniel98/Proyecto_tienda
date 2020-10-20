@@ -4,3 +4,4 @@ from .user import UserSerializer, UserReadSerializer, UserPermissionReadSerializ
 from .fabricas import FabricaModelSerializer, FabricaRegisterSerializer
 from .articulos import ArticuloModelSerializer,ArticuloReadModelSerializer, ArticuloRetrieveModelSerializer
 from .clientes import  ClienteSerializer,  ClienteRegistroSerializer
+from .pedidos import PedidoReadSerializer, PedidoRegistroSerializer

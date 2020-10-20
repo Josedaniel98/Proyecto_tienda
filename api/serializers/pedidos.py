@@ -13,7 +13,7 @@ class ArticuloReadSerializer( serializers.ModelSerializer ):
         fields = ('id','nombre','descripcion','precio')
 
 class PedidoReadSerializer( serializers.ModelSerializer ):
-    cliente = serializers.SerializerMethodField("getClientes")
+    cliente = serializers.SerializerMethodField("getCliente")
 
     articulos = ArticuloReadSerializer(many=True)
     class Meta:
@@ -21,7 +21,7 @@ class PedidoReadSerializer( serializers.ModelSerializer ):
         fields = '__all__'
 
     def getCliente(self, obj):
-        return {'id': obj.cliente.cliente_id, 'nombre': obj.cliente.nombre, 'direccion':obj.cliente.direccion}
+        return {'id': obj.cliente.id, 'nombre': obj.cliente.nombre, 'direccion':obj.cliente.direccion}
 
 class PedidoRegistroSerializer(serializers.ModelSerializer):
     class Meta:

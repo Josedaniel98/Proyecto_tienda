@@ -14,6 +14,7 @@ router.register(r'articulo', viewsets.ArticuloViewSet)
 
 router.register(r'cliente', viewsets.ClienteViewSet)
 
+router.register(r'pedido', viewsets.PedidoViewSet)
 
 urlpatterns = [
     path('api/', include(router.urls)),
